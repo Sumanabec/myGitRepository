@@ -1,1 +1,5 @@
-Test Git Quick Start demo
+Git commands
+git config --global merge.tool p4merge
+git config --global mergetool.p4merge.path ""
+git config --global mergetool.prompt false
+
